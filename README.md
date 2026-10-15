@@ -10,10 +10,10 @@
 </p>
 
 <!-- Badges de contacto en tonos pastel -->
-<a href="https://linkedin.com/in/tu-perfil">
+<a href="https://www.linkedin.com/in/miriam-trapero-rodr%C3%ADguez-9ba559176/">
   <img src="https://img.shields.io/badge/LinkedIn-C7CEEA?style=for-the-badge&logo=linkedin&logoColor=2D3748" alt="LinkedIn" />
 </a>
-<a href="mailto:tu-email@gmail.com">
+<a href="mailto:mimi23m2002@gmail.com">
   <img src="https://img.shields.io/badge/Email-FFB7B2?style=for-the-badge&logo=gmail&logoColor=2D3748" alt="Email" />
 </a>
 <a href="https://github.com/Mimitrz">
