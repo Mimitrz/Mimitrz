@@ -13,7 +13,7 @@
 <a href="https://www.linkedin.com/in/miriam-trapero-rodr%C3%ADguez-9ba559176/">
   <img src="https://img.shields.io/badge/LinkedIn-C7CEEA?style=for-the-badge&logo=linkedin&logoColor=2D3748" alt="LinkedIn" />
 </a>
-<a href="mailto:mimi23m2002@gmail.com">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=mimi23m2002@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-FFB7B2?style=for-the-badge&logo=gmail&logoColor=2D3748" alt="Email" />
 </a>
 <a href="https://github.com/Mimitrz">
